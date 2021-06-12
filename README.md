@@ -12,9 +12,9 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
       ><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"
     /></a>
 👉 Follow me on
-<a href="https://www.instagram.com/kolpaja/"
-      ><img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"
-    /></a>
+
+  [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
+
 ⚡ <a href="https://www.facebook.com/profile.php?id=100012553262237" 
       ><img src="/img/facebook-3.svg" alt="facebook" height="25" width="25"
     /></a>
