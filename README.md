@@ -2,7 +2,7 @@
 
 I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
-🔭 I’m currently working on e-commerce web-app <a href="https://sarahs-clothing.herokuapp.com/"> Sarah's Clothing</a>
+🔭 I’m currently working on e-commerce web-app [Sarah's Clothing]("https://sarahs-clothing.herokuapp.com/")  </a>
 
 🌱 I’m currently learning React with GraphQL/Apollo
 👯 I’m looking to collaborate on Web-Dev
