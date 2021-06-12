@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
@@ -20,3 +20,5 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 <img src="/img/nodejs-1.svg" alt="nodejs" height="40" width="60">
+![MongoDB](<img src="/img/mongodb.svg" alt="nodejs" height="40" width="60">)
+![Firebase](<img src="/img/firebase.svg" alt="nodejs" height="40" width="60">)
