@@ -18,5 +18,5 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Nodejs]<img src="/img/nodejs.svg" alt="nodejs" height="25" width="25">
-![Github]<a href="#"><img src="/img/github.svg" alt="github"/></a>
+<img src="/img/nodejs.svg" alt="nodejs" height="40" width="60">
+<img src="/img/github.svg" alt="github"/>
