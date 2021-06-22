@@ -7,11 +7,11 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 🌱 I’m currently learning React with GraphQL/Apollo
 👯 I’m looking to collaborate on Web-Dev
 
-📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)<a href="">)
+📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
 
-👉 Follow me on: [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
+👉 Follow me on [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
 
-👉 Follow me on: [<img src="/img/facebook-3.svg" alt="facebook" height="25" width="25"/>](https://www.facebook.com/profile.php?id=100012553262237)
+👉 Follow me on [<img src="/img/facebook-3.svg" alt="facebook" height="25" width="25"/>](https://www.facebook.com/profile.php?id=100012553262237)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
