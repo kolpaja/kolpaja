@@ -12,6 +12,8 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 👉 Follow me on [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
 
 👉 Follow me on [<img src="/img/facebook-3.svg" alt="facebook" height="25" width="25"/>](https://www.facebook.com/profile.php?id=100012553262237)
+👉 Support me on (https://www.patreon.com/codewithkoli)
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
