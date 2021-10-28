@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<div>
+<div align="left">
 I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
 🔭 Built an e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
@@ -17,7 +19,11 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
 👉 Support me on [Patreon](https://www.patreon.com/codewithkoli)
 
+</div>
+<div align="right">
 <a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="400" alt="Sokol Paja's Dev Card"/></a>
+</div>
+<div>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
