@@ -1,12 +1,13 @@
 ## Hi there 👋
 <table>
   <tr>
-    <td >
+    <td valign="center">
      I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
 🔭 Built an e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
 
 🌱 Code with React
+      
 👯 I’m looking to collaborate on Web-Dev
 
 📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
