@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div>
+<div display="flex">
 <div align="left">
 I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
