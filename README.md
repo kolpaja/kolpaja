@@ -2,9 +2,9 @@
 
 I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
-🔭 I’m currently working on e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
+🔭 Built an e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
 
-🌱 I’m currently learning React with GraphQL/Apollo
+🌱 I’m currently code with React & Next.js
 👯 I’m looking to collaborate on Web-Dev
 
 📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
