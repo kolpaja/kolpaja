@@ -19,7 +19,7 @@
 
 👉 Support me on [Patreon](https://www.patreon.com/codewithkoli)
   <td >
-      <a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="300" alt="Sokol Paja's Dev Card"/></a>
+      <a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="400" alt="Sokol Paja's Dev Card"/></a>
     </td>
   </tr>
   </table>
