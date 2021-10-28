@@ -7,7 +7,7 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 🌱 I’m currently code with React & Next.js
 👯 I’m looking to collaborate on Web-Dev
 
-📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja) or [whatsapp](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
+📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja) or [<img src="/img/whatsapp.svg" alt="whatsapp" style={{color: 'green'}} height="25" width="25"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
 
 👉 Follow me on [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
 
@@ -16,7 +16,6 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 👉 Support me on [Patreon](https://www.patreon.com/codewithkoli)
 
 <a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="400" alt="Sokol Paja's Dev Card"/></a>
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
