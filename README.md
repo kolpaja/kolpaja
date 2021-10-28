@@ -9,7 +9,7 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
 📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
 
-👉 Chat on whatsapp +[<img src="/img/whatsapp.svg"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
+👉 Chat on whatsapp [<img src="/img/whatsapp.svg" alt="whatsapp me"  height="25" width="25"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
 
 👉 Follow me on [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
 
