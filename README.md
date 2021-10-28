@@ -1,8 +1,8 @@
 ## Hi there 👋
-
-<div display="flex">
-<div align="left">
-I am Sokol Paja (or you can call me shortly ✨Koli✨)
+<table>
+  <tr>
+    <td >
+     I am Sokol Paja (or you can call me shortly ✨Koli✨)
 
 🔭 Built an e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
 
@@ -18,12 +18,11 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 👉 Follow me on [<img src="/img/facebook-3.svg" alt="facebook" height="25" width="25"/>](https://www.facebook.com/profile.php?id=100012553262237)
 
 👉 Support me on [Patreon](https://www.patreon.com/codewithkoli)
-
-</div>
-<div align="right">
-<a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="400" alt="Sokol Paja's Dev Card"/></a>
-</div>
-<div>
+  <td >
+      <a href="https://app.daily.dev/kolpaja"><img src="https://api.daily.dev/devcards/e890625d486c452bbabcf409dc29279d.png?r=fvz" width="300" alt="Sokol Paja's Dev Card"/></a>
+    </td>
+  </tr>
+  </table>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
