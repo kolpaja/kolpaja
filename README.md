@@ -8,7 +8,7 @@ I am Sokol Paja (or you can call me shortly ✨Koli✨)
 👯 I’m looking to collaborate on Web-Dev
 
 📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
-[<img src="/img/whatsapp.svg" alt="whatsapp" style={{color: 'green'}} height="25" width="25"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
+[<img src="/img/whatsapp.svg" alt="whatsapp"height="25" width="25"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
 
 👉 Follow me on [<img src="/img/instagram-2-1.svg" alt="instagram" height="25" width="25"/>](https://www.instagram.com/kolpaja/)
 
