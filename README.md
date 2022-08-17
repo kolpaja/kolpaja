@@ -6,11 +6,11 @@
 
 🔭 Built an e-commerce web-app [Sarah's Clothing](https://sarahs-clothing.herokuapp.com/)
 
-🌱 Code with React
+🌱 Code with React... MERN-Stack
       
 👯 I’m looking to collaborate on Web-Dev
 
-📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](www.linkedin.com/in/sokol-paja)
+📫 How to reach me: <a href="https://www.gmail.com"><img src="/img/gmail-icon.svg" alt="gmail" height="25" width="25"/></a> [<img src="/img/linkedin.svg"/>](https://www.linkedin.com/in/sokol-paja/)
 
 👉 Chat on whatsapp [<img src="/img/whatsapp.svg" alt="whatsapp me"  height="25" width="25"/>](https://wa.me/355676792890?text=Hello%20There%21%0AI%20want%20to%20connect%20with%20you%2C)
 
